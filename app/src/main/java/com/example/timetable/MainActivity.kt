@@ -2,6 +2,7 @@ package com.example.timetable
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.View
 import android.widget.Button
 import androidx.fragment.app.Fragment
 import com.google.android.material.bottomnavigation.BottomNavigationView
@@ -37,5 +38,7 @@ class MainActivity : AppCompatActivity() {
             replace(R.id.fragment,fragment)
             commit()
         }
+
+    fun NewEventAction(view: View) {}
 }
 
