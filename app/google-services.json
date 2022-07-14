@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "352011933445",
+    "firebase_url": "https://announcements-a237b-default-rtdb.firebaseio.com",
+    "project_id": "announcements-a237b",
+    "storage_bucket": "announcements-a237b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352011933445:android:f9157fd9eed12903f3496c",
+        "android_client_info": {
+          "package_name": "com.example.devsoc_announcement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352011933445-n1r63hs1v2bjfu2c3rp55uu6fjtivl1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtSWmE2s66SwTRsuW35cfKynzHc1f_TU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352011933445-n1r63hs1v2bjfu2c3rp55uu6fjtivl1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352011933445:android:b385be7ff562ec0df3496c",
+        "android_client_info": {
+          "package_name": "com.example.test2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352011933445-n1r63hs1v2bjfu2c3rp55uu6fjtivl1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtSWmE2s66SwTRsuW35cfKynzHc1f_TU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352011933445-n1r63hs1v2bjfu2c3rp55uu6fjtivl1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352011933445:android:eba9d47fb4ba38fff3496c",
+        "android_client_info": {
+          "package_name": "com.example.timetable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352011933445-n1r63hs1v2bjfu2c3rp55uu6fjtivl1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtSWmE2s66SwTRsuW35cfKynzHc1f_TU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352011933445-n1r63hs1v2bjfu2c3rp55uu6fjtivl1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
